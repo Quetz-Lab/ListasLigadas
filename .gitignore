@@ -11,6 +11,7 @@ out/
 x64/
 Debug/
 Release/
+.kiro/
 
 # CMake files
 CMakeCache.txt
