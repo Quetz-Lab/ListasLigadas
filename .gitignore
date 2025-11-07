@@ -1,0 +1,53 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+x64/
+Debug/
+Release/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Executables
+*.exe
+*.out
+*.app
+JosephusVisualization
+JosephusVisualization_d
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Log files
+*.log
